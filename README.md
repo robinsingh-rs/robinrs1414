@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robinrs1414(Robin)
+<h1 align="center">Hi 👋, I'm Robin</h1>
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ML or DL 
