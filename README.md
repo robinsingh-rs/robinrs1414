@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <img
     src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sql-61DAFB?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/mysql-61DAFB?style=for-the-badge&logo=mysql&logoColor=black"/>
 </p>
 <br>
 <br>
