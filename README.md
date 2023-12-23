@@ -61,7 +61,6 @@ You can click the Preview link to take a look at your changes.
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  
   <img
     src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img
