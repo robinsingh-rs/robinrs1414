@@ -76,5 +76,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <h3 align="left">Connect with me:-</h3>
-<a href="https://www.linkedin.com/in/robinrs/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-61DAAB?style=for-the-badge&logo=linkedin&logoColor=black" alt="https://www.linkedin.com/in/robinrs/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robinrs/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-61DAAB?style=for-the-badge&logo=linkedin&logoColor=black" alt="https://www.linkedin.com/in/robinrs/" /></a>
 </p>
