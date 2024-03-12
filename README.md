@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning
+- 🌱 I’m currently working at Bobble AI
 - 💞️ I’m looking to collaborate on ML or DL 
 - 📫 How to reach me : rorrobin1414@gmail.com
 - 💬 Visit my website : [https://robinrs1414.github.io/](https://robinrs1414.github.io/)
